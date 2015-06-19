@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hechos Curiosos</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="fact1">Las hormigas se estiran cuando se despiertan por la mañana.</string>
+    <string name="fact2">Las avestruces corren más rápido que los caballos.</string>
+    <string name="fact3">Las medallas de oro olímpicas están hechas en su mayoría de plata.</string>
+    <string name="fact4">Naces con 300 huesos; para cuando eres adulto solo tienes 206.</string>
+    <string name="fact5">La luz del Sol tarda aproximádamente 8 minutos en alcanzar la Tierra.</string>
+    <string name="fact6">Algunas plantas de bambú pueden crecer casi un metro en un solo día</string>
+    <string name="fact7">El estado de Florida (USA) es más grande que Inglaterra.</string>
+    <string name="fact8">Algunos pingüinos pueden saltar de 2 a 3 metros fuera del agua.</string>
+    <string name="fact9">De media, se tarda 66 días en adquirir un nuevo hábito.</string>
+    <string name="fact10">Los Mammoths aún habitaban la tierra cuando la Gran Pirámide se empezó a construir.</string>
+    <string name="didyouknow">¿Sabías que...</string>
+    <string name="fact_button">Muéstrame otro hecho curioso!</string>
+</resources>

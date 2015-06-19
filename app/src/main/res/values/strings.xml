@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Fun Facts</string>
+    <string name="hello_world" translatable="false">Hello world!</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="didyouknow">Did you know?</string>
+    <string name="fact_button">Show me another fun fact!</string>
+    <string name="fact1">Ants stretch when they wake up in the morning.</string>
+    <string name="fact2">Las avestruces corren más rápido que los caballos.</string>
+    <string name="fact3">Olympic gold medals are actually made mostly of silver.</string>
+    <string name="fact4">You are born with 300 bones; by the time you are an adult you will have 206.</string>
+    <string name="fact5">It takes about 8 minutes for light from the Sun to reach Earth.</string>
+    <string name="fact6">Some bamboo plants can grow almost a meter in just one day.</string>
+    <string name="fact7">The state of Florida is bigger than England.</string>
+    <string name="fact8">Some penguins can leap 2 or 3 meters out of the water.</string>
+    <string name="fact9">On average, it takes 66 days to form a new habit.</string>
+    <string name="fact10">Mammoths still walked the earth when the Great Pyramid was being built.</string>
+    <string name="color1" translatable="false">#39add1</string>
+    <string name="color2" translatable="false">#3079ab</string>
+    <string name="color3" translatable="false">#c25975</string>
+    <string name="color4" translatable="false">#e15258</string>
+    <string name="color5" translatable="false">#f9845b</string>
+    <string name="color6" translatable="false">#838cc7</string>
+    <string name="color7" translatable="false">#7d669e</string>
+    <string name="color8" translatable="false">#53bbb4</string>
+    <string name="color9" translatable="false">#51b46d</string>
+    <string name="color10" translatable="false">#e0ab18</string>
+    <string name="color11" translatable="false">#637a91</string>
+    <string name="color12" translatable="false">#f092b0</string>
+    <string name="color13" translatable="false">#b7c0c7 </string>
+</resources>
